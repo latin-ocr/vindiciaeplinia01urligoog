@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vindiciaeplinia01urligoog_0014.png"; bbox 0 0 3700 5625; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 621 2559 1395 2687">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 621 2559 1395 2687">
+     <span class='ocr_line' id='line_1_1' title="bbox 621 2559 1395 2687; baseline -0.005 -34"><span class='ocrx_word' id='word_1_1' title='bbox 621 2681 623 2687; x_wconf 27' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 653 2587 745 2653; x_wconf 63' lang='lat' dir='ltr'><strong>(Mica</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 767 2559 845 2652; x_wconf 61' lang='lat' dir='ltr'>iidem</span> <span class='ocrx_word' id='word_1_4' title='bbox 867 2588 926 2652; x_wconf 73' lang='lat' dir='ltr'>ntis</span> <span class='ocrx_word' id='word_1_5' title='bbox 949 2589 1074 2671; x_wconf 71' lang='lat' dir='ltr'>designavi,</span> <span class='ocrx_word' id='word_1_6' title='bbox 1097 2609 1152 2671; x_wconf 74' lang='lat' dir='ltr'>quas</span> <span class='ocrx_word' id='word_1_7' title='bbox 1175 2586 1269 2668; x_wconf 74' lang='lat' dir='ltr'>Silligius</span> <span class='ocrx_word' id='word_1_8' title='bbox 1289 2585 1395 2651; x_wconf 64' lang='lat' dir='ltr'>adhibuit</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1854 5625">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1854 5625">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1854 5625; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1854 5625; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

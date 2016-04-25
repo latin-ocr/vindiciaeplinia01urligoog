@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vindiciaeplinia01urligoog_0207.png"; bbox 0 0 3700 5625; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 403 1844 1412 2002">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 403 1844 1412 2002">
+     <span class='ocr_line' id='line_1_1' title="bbox 403 1844 1412 2002; baseline -0.002 -49"><span class='ocrx_word' id='word_1_1' title='bbox 403 1846 791 1965; x_wconf 79' lang='lat' dir='ltr'>vindiciarum</span> <span class='ocrx_word' id='word_1_2' title='bbox 827 1844 1213 2002; x_wconf 79' lang='lat' dir='ltr'>Plinianarum</span> <span class='ocrx_word' id='word_1_3' title='bbox 1292 1879 1304 1900; x_wconf 61' lang='grc'><strong>“</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1408 1871 1412 1879; x_wconf 75' lang='grc'><strong>“</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 665 2209 961 2308">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 665 2209 961 2308">
+     <span class='ocr_line' id='line_1_2' title="bbox 665 2209 961 2308; baseline 0.007 -33"><span class='ocrx_word' id='word_1_5' title='bbox 665 2209 785 2308; x_wconf 68' lang='lat' dir='ltr'>Pars¹</span> <span class='ocrx_word' id='word_1_6' title='bbox 817 2211 961 2277; x_wconf 66' lang='lat' dir='ltr'>altera</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 274 2465 1365 2640">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 274 2465 1365 2640">
+     <span class='ocr_line' id='line_1_3' title="bbox 274 2465 1365 2554; baseline 0.001 -22"><span class='ocrx_word' id='word_1_7' title='bbox 274 2466 341 2532; x_wconf 74' lang='lat' dir='ltr'>iiiii</span> <span class='ocrx_word' id='word_1_8' title='bbox 365 2468 490 2532; x_wconf 75' lang='lat' dir='ltr'>librom</span> <span class='ocrx_word' id='word_1_9' title='bbox 511 2465 588 2532; x_wconf 82' lang='lat' dir='ltr'>ml.</span> <span class='ocrx_word' id='word_1_10' title='bbox 616 2466 754 2533; x_wconf 63' lang='grc' dir='ltr'>αἰθυίῃ</span> <span class='ocrx_word' id='word_1_11' title='bbox 776 2470 853 2532; x_wconf 71' lang='lat' dir='ltr'>noxio</span> <span class='ocrx_word' id='word_1_12' title='bbox 880 2487 965 2553; x_wconf 73' lang='lat' dir='ltr'><strong>unque</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 985 2466 1020 2532; x_wconf 76' lang='lat' dir='ltr'>ai</span> <span class='ocrx_word' id='word_1_14' title='bbox 1046 2470 1206 2534; x_wconf 73' lang='lat' dir='ltr'>trioeainun</span> <span class='ocrx_word' id='word_1_15' title='bbox 1228 2469 1365 2554; x_wconf 74' lang='lat' dir='ltr'>septim</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 626 2573 988 2640; baseline 0.006 -2"><span class='ocrx_word' id='word_1_16' title='bbox 626 2573 822 2640; x_wconf 63' lang='lat' dir='ltr'>initiationes</span> <span class='ocrx_word' id='word_1_17' title='bbox 843 2575 988 2640; x_wconf 67' lang='lat' dir='ltr'>continens.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1854 5625">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1854 5625">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1854 5625; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1854 5625; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
